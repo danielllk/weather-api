@@ -1,12 +1,8 @@
----
-
-To run the app:
+## To run the app:
 
 1. npm i
 2. npm start
-3. Demo here: https://clever-wright-519374.netlify.app
-
----
+3. Demo here: (https://clever-wright-519374.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
